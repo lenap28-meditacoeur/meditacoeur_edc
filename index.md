@@ -35,6 +35,10 @@ Les Données concernant l'Utilisateur sont collectées pour permettre à l'Appli
 
 Les Données personnelles sont collectées aux fins suivantes et en utilisant les services suivants :
 
+ENVOI DE NEWSLETTER
+
+Les informations que vous saisirez, comme votre adresse email, seront enregistrées par MeditaCoeur et pourront, en outre, être utilisées pour l'envoi de Newsletters contenant des liens sécurisés sur lesquels il vous sera possible de cliquer. Si vous ne le souhaitez pas, veuillez nous le signifier en nous envoyant un email à meditacoeur@gmail.com.  Vous disposez d'un droit d'accès, de modification, de rectification et de suppression concernant les données collectées sur cette application, dans les conditions prévues par la loi n°78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+
 ## Accès aux comptes de services tiers
 
 Ces services permettent à cette Application MEDITACOEUR d'accéder aux Données de votre compte sur un service tiers et d'effectuer des actions avec celles-ci. Ces services ne sont pas activés automatiquement, mais nécessitent une autorisation explicite de l'Utilisateur.
